@@ -4,7 +4,7 @@ let array = [
         category: "computerParts",
         oldPrice: "$160",
         newPrice: "$140",
-        img: "img/powerSupply.jpg"
+        img: "img/powersupply.jpg"
     },
     {
         name: "Optical Disc Drive",
@@ -46,7 +46,7 @@ let array = [
         category: "computerParts",
         oldPrice: "$250",
         newPrice: "$210",
-        img: "img/placaBase.jpg"
+        img: "img/placabase.jpg"
     },
     {
         name: "System unit",
