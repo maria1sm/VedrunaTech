@@ -4,7 +4,7 @@ let array = [
         category: "sample Category",
         oldPrice: "$400",
         newPrice: "$350",
-        img: "../img/webDesign.webp"
+        img: "../img/webdesign.webp"
     }
     ,
     {
