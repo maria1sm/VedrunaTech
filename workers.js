@@ -15,7 +15,7 @@ let array = [
         name: "Marcelo Herce",
         job: "Network Administrator",
         description: "Manages and supports an organization's computer networks.",
-        img: "../img/marcelo.jpeg"
+        img: "../img/Marcelo.jpeg"
     },
     {
         name: "Pablo López",
