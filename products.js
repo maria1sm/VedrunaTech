@@ -95,7 +95,7 @@ let array = [
         category: "Peripherals",
         oldPrice: "$200",
         newPrice: "$150",
-        img: "img/keyBoard.webp"
+        img: "img/keyboard.webp"
     },
     {
         name: "Headphones",
@@ -209,77 +209,77 @@ let array = [
         category: "Peripherals",
         oldPrice: "$205",
         newPrice: "$115",
-        img: "img/Projector.webp"
+        img: "img/projector.webp"
     },
     {
         name: "Remote Control",
         category: "Peripherals",
         oldPrice: "$20",
         newPrice: "$15",
-        img: "img/Remote.webp"
+        img: "img/remote.webp"
     },
     {
         name: "Scanner",
         category: "Peripherals",
         oldPrice: "$200",
         newPrice: "$186",
-        img: "img/Scanner.jpg"
+        img: "img/scanner.jpg"
     },
     {
         name: "Speakers",
         category: "Peripherals",
         oldPrice: "$230",
         newPrice: "$165",
-        img: "img/Speakers.jpg"
+        img: "img/speakers.jpg"
     },
     {
         name: "Stylus",
         category: "Peripherals",
         oldPrice: "$200",
         newPrice: "$130",
-        img: "img/Stylus.jpg"
+        img: "img/stylus.jpg"
     },
     {
         name: "Touch Screen",
         category: "Peripherals",
         oldPrice: "$450",
         newPrice: "$365.5",
-        img: "img/TouchScreen.jpg"
+        img: "img/touchscreen.jpg"
     },
     {
         name: "USB Charger",
         category: "Peripherals",
         oldPrice: "$20",
         newPrice: "$15",
-        img: "img/USBCharger.jpg"
+        img: "img/usbcharger.jpg"
     },
     {
         name: "Webcam",
         category: "Peripherals",
         oldPrice: "$130",
         newPrice: "$110",
-        img: "img/Webcam.jpg"
+        img: "img/webcam.jpg"
     },
     {
         name: "Laser Pointer",
         category: "Peripherals",
         oldPrice: "$60",
         newPrice: "$45",
-        img: "img/LaserPointer.webp"
+        img: "img/laserpointer.webp"
     },
     {
         name: "Memory Card",
         category: "Peripherals",
         oldPrice: "$120",
         newPrice: "$99.9",
-        img: "img/MemoryCard.webp"
+        img: "img/memorycard.webp"
     },
     {
         name: "Touchpad",
         category: "Peripherals",
         oldPrice: "$35",
         newPrice: "$20.5",
-        img: "img/Touchpad.jpg"
+        img: "img/touchpad.jpg"
     },
 
     /* {
@@ -294,14 +294,14 @@ let array = [
         category: "keys",
         oldPrice: "$3",
         newPrice: "$2",
-        img: "img/Arrow.png"
+        img: "img/arrow.png"
     },
     {
         name: "Backspace",
         category: "keys",
         oldPrice: "$2",
         newPrice: "$1.5",
-        img: "img/Backspace.jpg"
+        img: "img/backspace.jpg"
     },
     {
         name: "Caps Lock",
@@ -336,7 +336,7 @@ let array = [
         category: "keys",
         oldPrice: "$2",
         newPrice: "$1.5",
-        img: "img/FunctionKeys.webp"
+        img: "img/functionkeys.webp"
     },
     {
         name: "Modifier Key",
@@ -371,7 +371,7 @@ let array = [
         category: "keys",
         oldPrice: "$2",
         newPrice: "$1.5",
-        img: "img/Spacebar.jpg"
+        img: "img/spacebar.jpg"
     },
     {
         name: "Tab Key",
@@ -385,14 +385,14 @@ let array = [
         category: "keys",
         oldPrice: "$2",
         newPrice: "$1.5",
-        img: "img/Ampersand.jpg"
+        img: "img/ampersand.jpg"
     },
     {
         name: "Apostrophe Key",
         category: "keys",
         oldPrice: "$2",
         newPrice: "$1.5",
-        img: "img/Apostrophe.png"
+        img: "img/apostrophe.png"
     },
     {
         name: "Asterisk Key",
