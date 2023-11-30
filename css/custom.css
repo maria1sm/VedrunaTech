@@ -87,6 +87,12 @@ header {
     z-index: 1;
 }
 
+.barra {
+    position: sticky;
+    top: 100px;
+    z-index: 1;
+}
+
 .submenu:hover #carrito {
     display: block;
     position: absolute;
@@ -198,9 +204,6 @@ header h1 {
     /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
     filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#741d51', endColorstr='#e44e52', GradientType=1);
     /* IE6-9 */
-    position: sticky;
-    top: 100px;
-    z-index: 1;
 }
 
 .button-primary {
