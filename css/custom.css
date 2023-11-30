@@ -58,7 +58,11 @@ input[type="submit"] {
     color: white;
     font-weight: bold;
 }
-
+.barra {
+    position: sticky;
+    top: 100px;
+    z-index: 1;
+}
 ul {
     list-style: none;
 }
