@@ -166,7 +166,7 @@ let array = [
         category: "computerParts",
         oldPrice: "$120",
         newPrice: "$89.9",
-        img: "img/unidadOptica.jpg"
+        img: "img/unidadoptica.jpg"
     },
     {
         name: "Hard Disk",
