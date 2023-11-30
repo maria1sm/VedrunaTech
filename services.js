@@ -4,7 +4,7 @@ let array = [
         category: "sample Category",
         oldPrice: "$400",
         newPrice: "$350",
-        img: "../img/webdesign.webp"
+        img: "../img/webDesign.webp"
     }
     ,
     {
@@ -20,7 +20,7 @@ let array = [
         category: "Service",
         oldPrice: "$200",
         newPrice: "$150",
-        img: "../img/maintenance.jpg"
+        img: "../img/Maintenance.jpg"
     },
     {
         name: "Enhance your computer's performance",
@@ -43,7 +43,7 @@ let array = [
         category: "Service",
         oldPrice: "$20",
         newPrice: "$10",
-        img: "../img/troubleshooting.jpg"
+        img: "../img/Troubleshooting.jpg"
     }
     ,
     {
